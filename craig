@@ -1,0 +1,49 @@
+@ -3,39 +3,29 @@
+<body>
+
+<h1 align="center" style="color:green;"> Craig Taylor Landscape Creations </h1>
+<h2 align="center" style="color:green;">  </h2>
+
+<p align="center">  </p>
+
+<p align="center" "> </p>
+
+<p align="center" "> </p>
+
+<p style="text-align:center; color:black;”> </p>
+
+<p style="text-align:center; color:black;”> </p>
+<p ></p>
+
+<p > Looking for the perfect backyard</p>
+
+<p>  </p>
+</section>
+
+<p >  </p>
+<a style="color:blue;"
+<p style="color:green;">  </p> 
+<p >  </p>
+<a style="color:violet;" </p> 
+
+<br>
+<p >  </p>
+
+<button style="background-color:blue; color:pink;" onclick="myFunction()">Gallery</button>
+<button style="background-color:black; color:pink;" onclick="myFunction()">Contact</button>
+
+<p style="color:magenta;" id=""></p>
+
+<section style="background-color:yellow;">
+<section style="background-color:black;">
+<script>
+function myFunction() {
+  document.getElementById("learning").innerHTML ="";
+@ -53,8 +43,8 @@ function myFunction() {
+<p>  </p>
+</section>
+<p style="color:violet;">  </p>
+
+
+
+</body>
